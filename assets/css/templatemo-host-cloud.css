@@ -1,14 +1,13 @@
 /*
 
-Host Cloud Template
-
-https://templatemo.com/tm-541-host-cloud
+Right Deals
 
 */
 
 body {
 	font-family: 'Roboto', sans-serif;
 	transition: all 0.5s;
+	letter-spacing: 1;
 }
 p {
 	margin-bottom: 0px;
@@ -28,12 +27,12 @@ a.main-button {
 	padding: 0px 25px;
 	border: none;
 	margin-left: 10px;
-	background-color: #00bcd4;
+	background-color: #EAABC1;
 	color: #fff;
 	text-transform: uppercase;
 	font-size: 15px;
 	font-weight: 500;
-	letter-spacing: 0.5px;
+	letter-spacing: 1.5px;
 	transition: all 0.5s;
 }
 a.main-button:hover {
@@ -54,7 +53,7 @@ a.gradient-button {
 	text-transform: uppercase;
 	font-size: 15px;
 	font-weight: 500;
-	letter-spacing: 0.5px;
+	letter-spacing: 1.5px;
 	transition: all 0.5s;
 }
 a.gradient-button:hover {
@@ -65,10 +64,10 @@ a.gradient-button:hover {
 	margin-bottom: 80px;
 }
 .section-heading span {
-	color: #00bcd4;
+	color: #EAABC1;
 	font-size: 15px;
 	font-weight: 500;
-	letter-spacing: 0.5px;
+	letter-spacing: 1.5px;
 	display: inline-block;
 	margin-top: 0px;
 }
@@ -76,7 +75,7 @@ a.gradient-button:hover {
 	color: #1e1e1e;
 	font-size: 32px;
 	font-weight: 700;
-	letter-spacing: 0.5px;
+	letter-spacing: 1.5px;
 	margin-top: 10px;
 	margin-bottom: 15px;
 }
@@ -85,7 +84,7 @@ a.gradient-button:hover {
 }
 
 .page-heading {
-	background-image: url(../images/heading-bg.jpg);
+	background-image: url(../images/crown.png);
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -97,12 +96,12 @@ a.gradient-button:hover {
 	color: #fff;
 	font-size: 44px;
 	font-weight: 700;
-	letter-spacing: 0.5px;
+	letter-spacing: 1.5px;
 	margin-bottom: 20px;
 }
 .page-heading p {
 	color: #fff;
-	letter-spacing: 0.5px;
+	letter-spacing: 1.5px;
 }
 .page-heading p a {
 	color: #fff;
@@ -216,37 +215,40 @@ header {
 }
 .background-header .navbar-brand h2 {
 	color: #1e1e1e!important;
+	letter-spacing: 5px;
 }
 .background-header .navbar-nav a.nav-link {
+	letter-spacing: 2px;
 	color: #1e1e1e!important;
 }
 .background-header .functional-buttons	ul li:first-child a {
 	display: inline-block;
 	background-color: transparent;
-	border: 2px solid #00bcd4;
+	border: 2px solid #EAABC1;
 	text-transform: uppercase;
 	font-size: 13px;
-	color: #00bcd4;
+	color: #EAABC1;
 	padding: 6px 20px;
-	letter-spacing: 0.5px;
+	letter-spacing: 1.5px;
 	transition: all 0.5s;
 }
 .background-header .functional-buttons	ul li:first-child a:hover {
 	color: #fff;
-	background-color: #00bcd4;
-	border-color: #00bcd4;
+	background-color: #EAABC1;
+	border-color: #EAABC1;
 }
 .background-header .navbar-nav .nav-link:hover,
 .background-header .navbar-nav .active>.nav-link,
 .background-header .navbar-nav .nav-link.active,
 .background-header .navbar-nav .nav-link.show,
 .background-header .navbar-nav .show>.nav-link {
-	color: #00bcd4!important;
+	color: #EAABC1!important;
 }
 .navbar .navbar-brand {
 	float: 	left;
 	margin-top: 12px;
 	outline: none;
+	letter-spacing: 5px;
 }
 .navbar .navbar-brand h2 {
 	color: #fff;
@@ -256,11 +258,13 @@ header {
 	-webkit-transition: all .3s ease 0s;
     -moz-transition: all .3s ease 0s;
     -o-transition: all .3s ease 0s;
-    transition: all .3s ease 0s;
+	transition: all .3s ease 0s;
+	letter-spacing: 5px;
 }
 .navbar .navbar-brand h2 em {
 	font-style: normal;
 	font-size: 16px;
+	letter-spacing: 5px;
 }
 #navbarResponsive {
 	z-index: 999;
@@ -275,17 +279,18 @@ header {
 	text-transform: capitalize;
 	font-size: 15px;
 	font-weight: 300;
-	letter-spacing: 0.5px;
+	letter-spacing: 1.5px;
 	color: #fff;
 	transition: all 0.5s;
 	margin-top: 5px;
+	letter-spacing: 2px;
 }
 .navbar .navbar-nav .nav-link:hover,
 .navbar .navbar-nav .active>.nav-link,
 .navbar .navbar-nav .nav-link.active,
 .navbar .navbar-nav .nav-link.show,
 .navbar .navbar-nav .show>.nav-link {
-	color: #00bcd4;
+	color: #EAABC1;
 }
 .navbar .navbar-toggler-icon {
 	background-image: none;
@@ -302,7 +307,7 @@ header {
 }
 .navbar .navbar-toggler-icon:after {
 	content: '\f0c9';
-	color: #00bcd4;
+	color: #EAABC1;
 	font-size: 18px;
 	line-height: 26px;
 	font-family: 'FontAwesome';
@@ -326,22 +331,22 @@ header {
 	font-size: 13px;
 	color: #fff;
 	padding: 6px 20px;
-	letter-spacing: 0.5px;
+	letter-spacing: 1.5px;
 	transition: all 0.5s;
 }
 .functional-buttons	ul li:first-child a:hover {
-	color: #00bcd4;
+	color: #EAABC1;
 	background-color: #fff;
 }
 .functional-buttons	ul li:last-child a {
 	display: inline-block;
-	background-color: #00bcd4;
-	border: 2px solid #00bcd4;
+	background-color: #EAABC1;
+	border: 2px solid #EAABC1;
 	text-transform: uppercase;
 	font-size: 13px;
 	color: #fff;
 	padding: 6px 20px;
-	letter-spacing: 0.5px;
+	letter-spacing: 1.5px;
 	transition: all 0.5s;
 }
 .functional-buttons	ul li:last-child a:hover {
@@ -351,7 +356,7 @@ header {
 
 /* Banner Style */
 .banner {
-	background-image: url(../images/banner-bg.jpg);
+	background-image: url(../images/home-banner.png);
 	background-size: cover;
 	background-repeat: no-repeat;
 	padding: 300px 0px;
@@ -362,7 +367,7 @@ header {
 }
 .banner .caption h2 {
 	text-transform: uppercase;
-	letter-spacing: 1px;
+	letter-spacing: 1.5px;
 	margin-top: 0px;
 	margin-bottom: 50px;
 	font-size: 32px;
@@ -386,7 +391,7 @@ header {
 	color: #fff;
 	outline: none;
 	font-size: 14px;
-	letter-spacing: 0.5px;
+	letter-spacing: 2.5px;
 	margin-bottom: 30px;
 }
 .banner #search-section input.main-button {
@@ -401,12 +406,12 @@ header {
 	padding: 0px 20px;
 	border: none;
 	margin-left: 10px;
-	background-color: #00bcd4;
+	background-color: #EAABC1;
 	color: #fff;
 	text-transform: uppercase;
 	font-size: 15px;
 	font-weight: 500;
-	letter-spacing: 0.5px;
+	letter-spacing: 2.5px;
 	transition: all 0.5s;
 	margin-bottom: 30px;
 }
@@ -502,7 +507,7 @@ header {
 }
 .services-section .service-item i {
 	color: #fff;
-	background-color: #00bcd4;
+	background-color: #EAABC1;
 	display: inline-block;
 	width: 100px;
 	height: 100px;
@@ -517,7 +522,7 @@ header {
 	color: #1e1e1e;
 	text-transform: capitalize;
 	font-weight: 500;
-	letter-spacing: 0.5px;
+	letter-spacing: 1.5px;
 	margin-bottom: 30px;
 }
 
@@ -527,10 +532,10 @@ header {
 	margin-top: 140px;
 }
 .background-image-pricing {
-	background-image: url(../images/pricing-bg.jpg);
+	background-image: url(../images/bottom.png);
 	background-size: cover;
 	background-repeat: no-repeat;
-	min-height: 500px;
+	min-height: 300px;
 	position: absolute;
 	width: 100%;
 }
@@ -540,7 +545,8 @@ header {
 }
 .pricing-section .section-heading h2,
 .pricing-section .section-heading p {
-	color: #fff;
+  color: #fff;
+  letter-spacing: 1.5px;
 }
 .pricing-item {
 	background-color: #fff;
@@ -554,7 +560,7 @@ header {
 	font-size: 17px;
 	font-weight: 700;
 	color: #1e1e1e;
-	letter-spacing: 0.5px;
+	letter-spacing: 1.5px;
 	margin-bottom: 45px;
 }
 .pricing-item .price-gradient {
@@ -562,7 +568,7 @@ header {
     background: linear-gradient(145deg, rgba(114,2,187,1) 0%, rgba(50,100,245,1) 100%);
 }
 .pricing-item .price {
-	background-color: #00bcd4;
+	background-color: #EAABC1;
 	width: 100%;
 	padding: 30px 0px;
 	margin-bottom: 35px;
@@ -571,7 +577,7 @@ header {
 	font-size: 32px;
 	color: #fff;
 	font-weight: 900;
-	letter-spacing: 0.5px;
+	letter-spacing: 1.5px;
 	margin-top: 0px;
 	margin-bottom: 0px;
 }
@@ -645,7 +651,7 @@ header {
 .features-section .feature-item h4 {
 	font-size: 18px;
 	color: #1e1e1e;
-	letter-spacing: 0.5px;
+	letter-spacing: 1.5px;
 	font-weight: 700;
 }
 .features-section .feature-item p {
@@ -693,14 +699,14 @@ header {
 	font-size: 19px;
 	font-weight: 700;
 	color: #1e1e1e;
-	letter-spacing: 0.5px;
+	letter-spacing: 1.5px;
 	margin-bottom: 0px;
 }
 .testimonial-item span {
 	display: inline-block;
 	margin-top: 8px;
 	font-size: 15px;
-	color: #00bcd4;
+	color: #EAABC1;
 }
 .owl-testimonials .owl-dots .owl-dot {
   border-radius: 3px;
@@ -726,13 +732,13 @@ header {
     outline: none
 }
 .owl-testimonials .owl-dots .owl-dot.active {
-    background-color: #00bcd4;
+    background-color: #EAABC1;
 }
 
 
 /* Footer Style */
 footer {
-	background-image: url(../images/footer-bg.jpg);
+	background-image: url(../images/footer.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center center;
@@ -742,7 +748,7 @@ footer .footer-heading h2 {
 	color: #fff;
 	font-size: 19px;
 	font-weight: 600;
-	letter-spacing: 0.5px;
+	letter-spacing: 1.5px;
 	margin-bottom: 30px;
 }
 footer p {
@@ -758,7 +764,7 @@ footer ul li {
 	font-size: 14px;
 	font-weight: 500;
 	color: #fff;
-	letter-spacing: 0.5px;
+	letter-spacing: 1.5px;
 }
 footer ul li:last-child {
 	margin-bottom: 0px;
@@ -825,7 +831,7 @@ footer .sub-footer a {
 #tabs ul li a {
   font-size: 18px;
   color: #1e1e1e;
-  letter-spacing: 0.5px;
+  letter-spacing: 1.5px;
   font-weight: 700;
   transition: all 0.3s;
 }
@@ -836,7 +842,7 @@ footer .sub-footer a {
   border-bottom: none;
 }
 #tabs ul .ui-tabs-active a {
-  color: #00bcd4;
+  color: #EAABC1;
 }
 #tabs ul .ui-tabs-active span {
   color: #1e1e1e;
@@ -885,14 +891,14 @@ footer .sub-footer a {
 	font-size: 19px;
 	font-weight: 700;
 	color: #1e1e1e;
-	letter-spacing: 0.5px;
+	letter-spacing: 1.5px;
 	margin-bottom: 0px;
 }
 .team-item span {
 	display: inline-block;
 	margin-top: 8px;
 	font-size: 15px;
-	color: #00bcd4;
+	color: #EAABC1;
 }
 
 
@@ -918,7 +924,7 @@ footer .sub-footer a {
 }
 .contact-form input,
 .contact-form textarea {
-	letter-spacing: 0.5px;
+	letter-spacing: 1.5px;
 	font-weight: 500;
     color: #6a6a6a;
     font-size: 14px;
@@ -957,12 +963,12 @@ footer .sub-footer a {
 	line-height: 50px;
 	padding: 0px 20px;
 	border: none;
-	background-color: #00bcd4;
+	background-color: #EAABC1;
 	color: #fff;
 	text-transform: uppercase;
 	font-size: 15px;
 	font-weight: 500;
-	letter-spacing: 0.5px;
+	letter-spacing: 1.5px;
 	transition: all 0.5s;
 }
 .contact-form button:hover {
@@ -979,7 +985,7 @@ footer .sub-footer a {
 	font-size: 14px;
 	font-weight: 600;
 	color: #1e1e1e;
-	letter-spacing: 0.5px;
+	letter-spacing: 1.5px;
 }
 .contact-us .right-content ul li:last-child {
 	margin-bottom: 0px;
@@ -990,7 +996,7 @@ footer .sub-footer a {
 	display: inline-block;
 	text-align: center;
 	line-height: 60px;
-	background-color: #00bcd4;
+	background-color: #EAABC1;
 	border-radius: 50%;
 	color: #fff;
 	margin-right: 15px;
@@ -1044,6 +1050,7 @@ footer .sub-footer a {
 		position: absolute;
 		left: 30px;
 		top: 10px;
+		letter-spacing: 5px;
 	}
 	.functional-buttons {
 		position: absolute;
@@ -1062,6 +1069,7 @@ footer .sub-footer a {
 	}
 	.navbar .navbar-brand {
 		width: auto;
+		letter-spacing: 5px;
 	}
 	.navbar:after {
 		display: none;
@@ -1087,7 +1095,7 @@ footer .sub-footer a {
 		color: #1e1e1e!important;
 	}
 	.navbar .navbar-nav .active>.nav-link {
-		color: #00bcd4!important;
+		color: #EAABC1!important;
 	}
 	.about-us .left-image {
 		margin-bottom: 30px;
@@ -1129,11 +1137,11 @@ footer .sub-footer a {
 @media (max-width: 576px) {
 	.functional-buttons	ul li:first-child a {
 		padding: 6px 10px;
-		letter-spacing: 0px;
+		letter-spacing: 1px;
 	}
 	.functional-buttons	ul li:last-child a {
 		padding: 6px 10px;
-		letter-spacing: 0px;
+		letter-spacing: 1px;
 	}
 	.functional-buttons {
 		margin-left: 7.5%;
@@ -1147,6 +1155,18 @@ footer .sub-footer a {
 	}
 	.background-header .functional-buttons	ul li:first-child a {
 		padding: 6px 10px;
-		letter-spacing: 0px;
+		letter-spacing: 1px;
 	}
+}
+
+.text-spacing {
+	letter-spacing: 2px;
+}
+
+.brand-image {
+  margin-top: -25px;
+}
+
+.btn {
+  letter-spacing: 1.5px;
 }
